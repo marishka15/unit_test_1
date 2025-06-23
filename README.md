@@ -1,1 +1,1 @@
-![Build](https://github.com/marishka15/ajs/actions/workflows/ci.yml/badge.svg) 
+![Build](https://github.com/marishka15//workflows/ci.yml/badge.svg) 
